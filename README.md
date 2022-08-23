@@ -10,4 +10,4 @@ I am Eunjong
 
 추가적인 개발!
 add dev~~~
-eunjongadd 
+add ej 
