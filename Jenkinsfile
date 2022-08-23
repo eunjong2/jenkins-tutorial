@@ -3,7 +3,7 @@ EKS_API = 'https://6918042C2B9B60669CFCE2B59402AF83.gr7.ap-northeast-2.eks.amazo
 EKS_CLUSTER_NAME='test-cluster'
 EKS_NAMESPACE='default'
 EKS_JENKINS_CREDENTIAL_ID='kubectl-deploy-credentials'
-ECR_PATH = '164583008725.dkr.ecr.ap-northeast-2.amazonaws.com/jenkins-ecr'
+ECR_PATH = '164583008725.dkr.ecr.ap-northeast-2.amazonaws.com/'
 ECR_IMAGE = 'jenkins-ecr'
 AWS_CREDENTIAL_ID = 'jenkins-aws-credentials'
 
